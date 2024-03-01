@@ -1,0 +1,140 @@
+*{
+    padding:0px;
+    margin: 0px;
+   }
+    .head
+    {
+        background-color: rgb(15, 15, 15);
+        color: rgb(198, 198, 198);
+        height:5vw ;  
+    }
+    body{
+        background-color: rgb(22, 22, 22);
+        color: rgb(203, 203, 203);
+    }
+    .text{
+        margin-left: 1vw;  
+    }
+    .parv{
+        font-size:2vw ;
+        position: relative;
+        bottom :0.14px;
+    }
+    .All{  
+        display: flex;   
+        text-align:right;
+        text-align: center;
+        margin-left: 70vw;
+        position: relative;
+        top:2vw; 
+    }
+    .home{
+        width: 70px;
+        font-size:1.2vw ;
+        text-decoration: none;
+    }
+    .parv{
+        margin-left: 1vw;
+    }
+    .about{
+        width: 90px;
+        font-size: 1.2vw;
+        text-decoration: none;
+    }
+    .about:hover {
+        color: blue;
+        cursor: pointer;
+    }
+    .projects{
+        width: 100px;
+        font-size: 1.2vw;
+        text-decoration: none;
+    }
+    .contact{
+        width: 100px;
+        font-size: 1.2vw;
+        text-decoration: none;
+    }
+    .contact:hover {   
+        color: blue;
+        cursor: pointer;
+    }
+    .pad{
+        margin-top: 17vw;
+        margin-bottom: 25vw;
+        margin-left: 1vw;
+    }
+    .f{
+        font-size: 2.5vw;
+        font-weight: 400;    
+    }
+    .s{
+        font-size: 5vw;
+        font-weight: 600;
+    }
+    .p{
+        color: rgb(150, 0, 0);
+    }
+    .img1{
+        float: right;
+        margin-right: 10vw;
+        position: relative;
+        bottom: 16vw;
+        width: 55%;
+    }
+    .AA{  
+        font-size: 2.5vw;
+        font-weight: 400px;
+        text-align: center;
+        margin-top: 3vw;
+        margin-bottom: 3vw;
+    }
+    .LC{
+        margin-left: 1vw;
+        font-size:1.2vw;
+        margin-bottom: 3vw;
+    }
+    .pjt{
+        font-size: 2.5vw;
+        font-weight: 400px;
+        text-align: center;
+        margin-bottom: 5vw;
+        margin-top: 5vw;
+    }
+    .mat{
+        margin-left: 1vw;
+        height: 7vw;
+    }
+    .last{
+        text-align: center;
+    }
+    .last2{
+        height: 15vw;
+        width: 10vw;
+        border-style: solid;
+        border-color: blue;
+        border-width: 2px;
+        border-radius: 5px;
+        text-align: center;
+        margin-left: 1vw;
+        font-size: 1vw; 
+        margin-bottom: 4vw; 
+    }
+    .cont{
+        text-align: center;
+        margin-top: 3vw;
+        margin-bottom: 3vw;
+        font-weight: 25rem;
+        font-size: 2.5vw;
+    }
+    .op{
+        display: flex;
+        flex-direction: row;
+        }
+   header{
+    width: 100%;      
+   }
+   .home:hover{
+    color: red;
+    cursor:pointer;
+   }       
